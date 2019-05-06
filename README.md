@@ -5,7 +5,7 @@ TPAMI ------→  IEEE Transactions on Pattern Analysis and Machine Intelligence 
 CVPR  ------→  IEEE Conference on Computer Vision and Pattern Recognition  \
 ECCV  ------→  European Conference on Computer Vision \
 ICCV  ------→  IEEE International Comferenceon Computer Vision \
-
+IJCAI ------→  International Joint Conference on Artificial Intelligence
 # IJCV
 * D. A. Ross, J. Lim, R.-S. Lin, and M.-H. Yang. **Incremental learning for robust visual tracking.** IJCV, 2008  [paper](https://link.springer.com/content/pdf/10.1007%2Fs11263-007-0075-7.pdf)
 
@@ -30,4 +30,4 @@ ICCV  ------→  IEEE International Comferenceon Computer Vision \
 
 
 
-# IJCAI (International Joint Conference on Artificial Intelligence)
+# IJCAI
