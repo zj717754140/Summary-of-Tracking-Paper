@@ -1,10 +1,10 @@
 # Summary-of-Tracking-Paper
 Some tracking paper maybe useful, Classic algorithm with highlight font or some special character.
-IJCV  ------→  International Journal of Computer Vision
-TPAMI ------→  IEEE Transactions on Pattern Analysis and Machine Intelligence
-CVPR  ------→  IEEE Conference on Computer Vision and Pattern Recognition
-ECCV  ------→  European Conference on Computer Vision
-ICCV  ------→  IEEE International Comferenceon Computer Vision
+IJCV  ------→  International Journal of Computer Vision \
+TPAMI ------→  IEEE Transactions on Pattern Analysis and Machine Intelligence \
+CVPR  ------→  IEEE Conference on Computer Vision and Pattern Recognition  \
+ECCV  ------→  European Conference on Computer Vision \
+ICCV  ------→  IEEE International Comferenceon Computer Vision \
 
 # IJCV
 * D. A. Ross, J. Lim, R.-S. Lin, and M.-H. Yang. **Incremental learning for robust visual tracking.** IJCV, 2008  [paper](https://link.springer.com/content/pdf/10.1007%2Fs11263-007-0075-7.pdf)
